@@ -1,0 +1,235 @@
+[
+  {
+    "totalCost": 55,
+    "numberOfOrder": 1,
+    "selectedDishes": [
+      {
+        "ID": 0,
+        "Name": "Латте",
+        "Price": 34
+      },
+      {
+        "ID": 0,
+        "Name": "Каппучино",
+        "Price": 21
+      }
+    ]
+  },
+  {
+    "totalCost": 66,
+    "numberOfOrder": 2,
+    "selectedDishes": [
+      {
+        "ID": 0,
+        "Name": "Латте",
+        "Price": 34
+      },
+      {
+        "ID": 0,
+        "Name": "Гляссе",
+        "Price": 11
+      },
+      {
+        "ID": 0,
+        "Name": "Каппучино",
+        "Price": 21
+      }
+    ]
+  },
+  {
+    "totalCost": 34,
+    "numberOfOrder": 3,
+    "selectedDishes": [
+      {
+        "ID": 0,
+        "Name": "Эспрессо",
+        "Price": 13
+      },
+      {
+        "ID": 0,
+        "Name": "Каппучино",
+        "Price": 21
+      }
+    ]
+  },
+  {
+    "totalCost": 55,
+    "numberOfOrder": 4,
+    "selectedDishes": [
+      {
+        "ID": 0,
+        "Name": "Латте",
+        "Price": 34
+      },
+      {
+        "ID": 0,
+        "Name": "Каппучино",
+        "Price": 21
+      }
+    ]
+  },
+  {
+    "totalCost": 32,
+    "numberOfOrder": 5,
+    "selectedDishes": [
+      {
+        "ID": 0,
+        "Name": "Каппучино",
+        "Price": 21
+      },
+      {
+        "ID": 0,
+        "Name": "Гляссе",
+        "Price": 11
+      }
+    ]
+  },
+  {
+    "totalCost": 45,
+    "numberOfOrder": 6,
+    "selectedDishes": [
+      {
+        "ID": 0,
+        "Name": "Гляссе",
+        "Price": 11
+      },
+      {
+        "ID": 0,
+        "Name": "Латте",
+        "Price": 34
+      }
+    ]
+  },
+  {
+    "totalCost": 45,
+    "numberOfOrder": 7,
+    "selectedDishes": [
+      {
+        "ID": 0,
+        "Name": "Гляссе",
+        "Price": 11
+      },
+      {
+        "ID": 0,
+        "Name": "Латте",
+        "Price": 34
+      }
+    ]
+  },
+  {
+    "totalCost": 34,
+    "numberOfOrder": 8,
+    "selectedDishes": [
+      {
+        "ID": 0,
+        "Name": "Каппучино",
+        "Price": 21
+      },
+      {
+        "ID": 0,
+        "Name": "Эспрессо",
+        "Price": 13
+      }
+    ]
+  },
+  {
+    "totalCost": 34,
+    "numberOfOrder": 9,
+    "selectedDishes": [
+      {
+        "ID": 0,
+        "Name": "Каппучино",
+        "Price": 21
+      },
+      {
+        "ID": 0,
+        "Name": "Эспрессо",
+        "Price": 13
+      }
+    ]
+  },
+  {
+    "totalCost": 45,
+    "numberOfOrder": 10,
+    "selectedDishes": [
+      {
+        "ID": 0,
+        "Name": "Каппучино",
+        "Price": 21
+      },
+      {
+        "ID": 0,
+        "Name": "Эспрессо",
+        "Price": 13
+      },
+      {
+        "ID": 0,
+        "Name": "Гляссе",
+        "Price": 11
+      }
+    ]
+  },
+  {
+    "totalCost": 45,
+    "numberOfOrder": 11,
+    "selectedDishes": [
+      {
+        "ID": 0,
+        "Name": "Гляссе",
+        "Price": 11
+      },
+      {
+        "ID": 0,
+        "Name": "Латте",
+        "Price": 34
+      }
+    ]
+  },
+  {
+    "totalCost": 79,
+    "numberOfOrder": 12,
+    "selectedDishes": [
+      {
+        "ID": 0,
+        "Name": "Эспрессо",
+        "Price": 13
+      },
+      {
+        "ID": 0,
+        "Name": "Каппучино",
+        "Price": 21
+      },
+      {
+        "ID": 0,
+        "Name": "Латте",
+        "Price": 34
+      },
+      {
+        "ID": 0,
+        "Name": "Гляссе",
+        "Price": 11
+      }
+    ]
+  },
+  {
+    "totalCost": 89,
+    "numberOfOrder": 13,
+    "selectedDishes": [
+      {
+        "ID": 0,
+        "Name": "Каппучино",
+        "Price": 21
+      },
+      {
+        "ID": 0,
+        "Name": "Латте",
+        "Price": 34
+      },
+      {
+        "ID": 0,
+        "Name": "Латте",
+        "Price": 34
+      }
+    ]
+  }
+]
