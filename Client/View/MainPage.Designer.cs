@@ -98,7 +98,7 @@
             this.buttonHistoryOfOrders.UseVisualStyleBackColor = true;
             this.buttonHistoryOfOrders.Click += new System.EventHandler(this.buttonHistoryOfOrders_Click);
             // 
-            // Form1
+            // MainPage
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -109,8 +109,9 @@
             this.Controls.Add(this.labelMenu);
             this.Controls.Add(this.dgv_order);
             this.Controls.Add(this.dgv_menu);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.Name = "MainPage";
+            this.Text = "Главная";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgv_menu)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dgv_order)).EndInit();

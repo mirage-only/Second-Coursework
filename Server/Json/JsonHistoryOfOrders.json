@@ -231,5 +231,27 @@
         "Price": 34
       }
     ]
+  },
+  {
+    "totalCost": 8,
+    "numberOfOrder": 14,
+    "selectedDishes": [
+      {
+        "ID": 0,
+        "Name": "Чай",
+        "Price": 8
+      }
+    ]
+  },
+  {
+    "totalCost": 11,
+    "numberOfOrder": 15,
+    "selectedDishes": [
+      {
+        "ID": 0,
+        "Name": "Гляссе",
+        "Price": 11
+      }
+    ]
   }
 ]

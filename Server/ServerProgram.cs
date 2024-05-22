@@ -17,8 +17,6 @@ namespace Сorse_work_result
         {
             /*MenuCreator creator = new MenuCreator();
             creator.CreateMenu();*/
-
-            //JsonController.ReadMenuFromJson();
             
             Start();
         }

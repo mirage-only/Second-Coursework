@@ -65,12 +65,20 @@ namespace Client
 
         private void buttonMakeOrder_Click(object sender, EventArgs e)
         {
-            List<ClientMenuItem> answer = ClientController.GetMenuAndProcessTheOrder(_selectedItems);
-            
-            _selectedItems.Clear();
-            dgv_order.Rows.Clear();
+            if (_selectedItems.Count != 0)
+            {
+                List<ClientMenuItem> answer = ClientController.GetMenuAndProcessTheOrder(_selectedItems);
 
-            MessageBox.Show($@"Заказ совершен, номер заказа {answer[0].ID}, сумма заказа составила {answer[0].Price} рубля(ей)");
+                _selectedItems.Clear();
+                dgv_order.Rows.Clear();
+
+                MessageBox.Show(
+                    $@"Заказ совершен, номер заказа {answer[0].ID}, сумма заказа составила {answer[0].Price} рубля(ей)");
+            }
+            else
+            {
+                MessageBox.Show(@"Заказ не имеет ни одной позиции, пожалуйста, проверьте правильность заказа!");
+            }
         }
 
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
